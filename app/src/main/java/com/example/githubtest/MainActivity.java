@@ -12,5 +12,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         // 변경사항 추가1
+
+        // 변경사항 추가2 부계
     }
 }
